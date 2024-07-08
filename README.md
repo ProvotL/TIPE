@@ -24,9 +24,9 @@ Be carefull to change the direction of the files in the code for it to work.
 
 You can also try these calls if you don't want to modify anything :
 
-old_programme_principal(3,True,True,'normal')
-old_programme_principal(4,True,True,'normal')
-old_programme_principal(5,True,True,'normal')
+old_programme_principal(3,True,True,'normal')            \n
+old_programme_principal(4,True,True,'normal')            \n
+old_programme_principal(5,True,True,'normal')            \n
 
 Don't try anything above n=10, it will take probably month or even years to finish.
 
