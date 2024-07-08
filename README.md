@@ -4,7 +4,7 @@ Computer science TIPE which explore the game of sprouts.
 TIPE is a project that all french students in Preparatory Classes have to do.
 Mine was on the game of sprouts.
 
-This code might be realy hard to understand, in that case, you should check these papers :
+This code might be really hard to understand, in that case, you should check these papers :
 
 — [1] : A FURTHER COMPUTER ANALYSIS OF SPROUTS, JULIEN LEMOINE
 SIMON VIENNOT , 2007
